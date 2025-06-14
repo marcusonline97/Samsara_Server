@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\samsara\\samsara\\samsara_listen\\source\\samsara_listen\\variant_shooter\\shooterweapon.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\samsara\\samsara\\samsara_listen\\intermediate\\build\\win64\\x64\\samsara_listeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\samsara\\samsara\\samsara_listen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\samsara_listen\\definitions.samsara_listen.h",
+            "d:\\samsara\\samsara\\samsara_listen\\source\\samsara_listen\\variant_shooter\\shooterweapon.h",
+            "d:\\samsara\\samsara\\samsara_listen\\source\\samsara_listen\\variant_shooter\\shooterweaponholder.h",
+            "d:\\samsara\\samsara\\samsara_listen\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara_listen\\uht\\shooterweaponholder.generated.h",
+            "d:\\samsara\\samsara\\samsara_listen\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara_listen\\uht\\shooterweapon.generated.h",
+            "c:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\unreal\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "c:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "d:\\samsara\\samsara\\samsara_listen\\source\\samsara_listen\\variant_shooter\\shooterprojectile.h",
+            "d:\\samsara\\samsara\\samsara_listen\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara_listen\\uht\\shooterprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

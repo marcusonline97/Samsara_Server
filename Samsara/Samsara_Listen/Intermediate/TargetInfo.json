@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Samsara_Listen",
+			"Path": "..\\Source\\Samsara_Listen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Samsara_ListenEditor",
+			"Path": "..\\Source\\Samsara_ListenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

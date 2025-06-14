@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Samsara\\Samsara\\Samsara_Listen\\Source\\Samsara_Listen\\Samsara_Listen.Build.cs",
+		"D:\\Samsara\\Samsara\\Samsara_Listen\\Source\\Samsara_Listen.Target.cs",
+		"D:\\Samsara\\Samsara\\Samsara_Listen\\Source\\Samsara_ListenEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

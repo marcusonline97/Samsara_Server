@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\samsara\\samsara\\samsara_listen\\source\\samsara_listen\\variant_shooter\\shooterweaponholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\samsara\\samsara\\samsara_listen\\intermediate\\build\\win64\\x64\\samsara_listeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\samsara\\samsara\\samsara_listen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\samsara_listen\\definitions.samsara_listen.h",
+            "d:\\samsara\\samsara\\samsara_listen\\source\\samsara_listen\\variant_shooter\\shooterweaponholder.h",
+            "d:\\samsara\\samsara\\samsara_listen\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara_listen\\uht\\shooterweaponholder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
